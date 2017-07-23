@@ -7,3 +7,6 @@ install: "pip install -r requirements.txt"
 before_script: "flake8 --max-complexity=5 --ignore=E501 django-polls"
 # command to run tests
 script: python mysite/manage.py test polls
+# safelist
+branches:
+  only: master
