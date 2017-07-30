@@ -1,4 +1,4 @@
-# django-tutorial
+# Django Tutorial
 
 [![Build Status](https://travis-ci.org/rcovar00/django-tutorial.png)](https://travis-ci.org/rcovar00/django-tutorial)
 
